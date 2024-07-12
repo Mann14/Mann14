@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mannmittal622@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LziLdItiY5hw06h-ONdXeOavqGjYBnlf/view?usp=sharing](https://drive.google.com/file/d/1LziLdItiY5hw06h-ONdXeOavqGjYBnlf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11WHx1UW-oTPnd-CDLqVHtM2HAhNZJQu7/view?usp=sharing](https://drive.google.com/file/d/11WHx1UW-oTPnd-CDLqVHtM2HAhNZJQu7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
