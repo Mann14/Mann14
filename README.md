@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mann14&label=Profile%20views&color=0e75b6&style=flat" alt="mann14" /> </p>
 
-- 🔭 I’m currently working on [Nisargaahar]([https://github.com/Mann14/nisargaahar])
+- 🔭 I’m currently working on [Nisargaahar](https://github.com/Mann14/nisargaahar)
 
 - 🌱 I’m currently learning **Microsoft Azure **
 
