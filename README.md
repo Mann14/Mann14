@@ -1,4 +1,5 @@
-[![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration-banner-template_1360-169.jpg)](https://github.com/Mann14)
+[![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_40876-2662.jpg?w=996)](https://mannmittal.com)
+
 <h1 align="center">Hi 👋, I'm Mann Mittal</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mann14&label=Profile%20views&color=0e75b6&style=flat" alt="mann14" /> </p>
@@ -13,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mannmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-icon.svg" alt="LinkedIn" width="30" height="30" /></a>
-<a href="https://www.leetcode.com/mannmittal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" /></a>
+<a href="https://linkedin.com/in/mannmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannmittal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mannmittal14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mannmittal14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">DevOps & Cloud Technologies</h3>
